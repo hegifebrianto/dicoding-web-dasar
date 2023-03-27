@@ -1,6 +1,3 @@
-# dicoding-web-dasar
-Dicoding web dasar 
-
 
 # Dicoding web dasar 
 
